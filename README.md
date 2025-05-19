@@ -8,12 +8,12 @@ LUNA FAUSTINO LIMA – 552473 - 2TDSPS <br>
 
 ## LINK YOUTUBE
 
-https://www.youtube.com/watch?v=glq-6tx7HXo
+https://www.youtube.com/watch?v=EeWew8kgl9E
 
 ## DOCUMENTAÇÃO
 
-A documentação se encontra no arquivo "DOCUMENTAÇÃO.pdf"
+A documentação se encontra no arquivo `DOCUMENTAÇÃO.pdf`
 
 ## COMO RODAR A APLICAÇÃO
 
-Caso queira rodar a aplicação, é preciso clonar o projeto, entrar dentro da pasta "challenge-odontoprev", então rodar os comandos "npm i" e "npx expo start"
+Caso queira rodar a aplicação, é preciso clonar o projeto, entrar dentro da pasta `challenge-odontoprev`, então rodar os comandos `npm i` e `npx expo start`
